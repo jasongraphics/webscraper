@@ -1,2 +1,2 @@
 # webscraper
-Web scrapers where it enables you to scrape data from multiple pages.
+Web scraper which enables you to scrape data from multiple pages.
